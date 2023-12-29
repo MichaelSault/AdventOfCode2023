@@ -18,4 +18,4 @@ for x in f:
     c += int(a+b)
     print(c)
 
-print("The calabration value is", c)
+print("The calibration value is", c)
